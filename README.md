@@ -1,2 +1,2 @@
 # My-Portafolio
-Ingeniero Mecatrónico 
+Ingeniero Mecatrónico, estudiante del Tecnológico de Monterrey
